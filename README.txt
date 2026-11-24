@@ -7,3 +7,5 @@ Result: R² 0.70 vs. 0.47 for standard SVI (ΔR² = +0.24, 95% CI 0.22–0.27). 
 Why it matters: Health departments using SVI to target diabetes resources may be mis-ranking tracts, especially at the high-risk tail where allocation decisions happen.
 
 Data: CDC/ATSDR SVI 2022 (CA) + CDC PLACES 2023
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7734659
